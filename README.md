@@ -1,3 +1,2 @@
 # pruebaIND
-print("Hello world");
-print("welcome");
+Print("Hello world");
