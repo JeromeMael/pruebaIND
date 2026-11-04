@@ -1,1 +1,2 @@
 # pruebaIND
+Print("Hello world");
